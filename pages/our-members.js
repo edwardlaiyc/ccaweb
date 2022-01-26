@@ -9,7 +9,7 @@ function OurMembers() {
             
             <div className={utilStyles.navBar}>
                 <Link href="/"><a><Image src="/navlogo.jpg" alt="CSS Logo" width = "250px" height = "75px"/></a></Link>
-                <Link href="/our-members"><a>Our Members</a></Link>
+                <Link href="/our-members"><a>About Us</a></Link>
                 
                 <div className={utilStyles.dropdown}>
                     <a className={utilStyles.dropdownBtn}>2021-2022 Activities/Courses</a>
@@ -31,7 +31,7 @@ function OurMembers() {
             </div>
             
             <section className = {utilStyles.screen}>
-                <h1 className={utilStyles.h1}><b>Our Members</b></h1>
+                <h1 className={utilStyles.h1}><b>About Us</b></h1>
                 <p><b><u>EXCO 2020-2021</u></b></p>
                 <Image src="/exco.png" alt="CSS exco" width = "500px" height = "300px"/>
                 <p><b><u>Members</u></b></p>

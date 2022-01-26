@@ -28,9 +28,11 @@ function backend() {
 
             <Link href="/recruitment"><a>Recruitment</a></Link>
 
-            <Link href="/contact-us"><a>Contact Us</a></Link>
-
             <Link href="/competitions"><a>Competitions</a></Link>
+
+                <Link href="/testimonials"><a>Testimonials</a></Link>
+
+            <Link href="/contact-us"><a>Contact Us</a></Link>
         </div>
             <section>
                 <h1 className={utilStyles.h1}><b>Backend Development</b></h1>

@@ -31,9 +31,11 @@ export default function Home() {
 
                 <Link href="/recruitment"><a>Recruitment</a></Link>
 
-                <Link href="/contact-us"><a>Contact Us</a></Link>
-
                 <Link href="/competitions"><a>Competitions</a></Link>
+
+                <Link href="/testimonials"><a>Testimonials</a></Link>
+
+                <Link href="/contact-us"><a>Contact Us</a></Link>
         </div>
 
         <section className={utilStyles.cover}>
@@ -51,32 +53,6 @@ export default function Home() {
                   By the way, sessions are held every Wednesday (our school's Gap Day) from 9 to 11am!
               </p>
           </div>
-      </section>
-
-      <section className={utilStyles.testimonials}>
-        <h2 className={utilStyles.h2}>Testimonials</h2>
-        <div className={utilStyles.slider}>
-            <Link href="#slide-1" scroll={false}><a>1</a></Link>
-            <Link href="#slide-2" scroll={false}><a>2</a></Link>
-            <Link href="#slide-3" scroll={false}><a>3</a></Link>
-            
-            <div className={utilStyles.slides}>
-                <div name="slide-1" id="slide-1" className={utilStyles.slide}>
-                    <blockquote>"CSS is an enriching CCA for all who are passionate about programming! The courses it offers are useful and interesting, and the incubator programme, in particular, promotes creativity and presents the chance for members to experiment and create innovative projects. By and large, anyone who wants to learn computer science should definitely try out for CSS!"</blockquote>
-                    <p>~ Nyx Audrey Angelo Iskandar ~</p>
-                </div>
-                
-                <div name="slide-2" id="slide-2" className={utilStyles.slide}>
-                  <blockquote>"CSS is a place where you explore new possibilities and expand your creativity."</blockquote>
-                  <p>~ Lee Baoyu ~</p>
-                </div>
-                
-                <div id="slide-3" className={utilStyles.slide}>
-                  <blockquote>"CSS is love. CSS is life."</blockquote>
-                  <p>~ Huang Ziwen ~</p>
-                </div>
-            </div>
-        </div>
       </section>
 
       <section className={utilStyles.footer}>

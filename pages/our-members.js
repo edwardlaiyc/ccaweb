@@ -34,8 +34,6 @@ function OurMembers() {
             
             <section className = {utilStyles.screen}>
                 <h1 className={utilStyles.h1}><b>About Us</b></h1>
-                <p><b><u>EXCO 2020-2021</u></b></p>
-                <Image src="/exco.png" alt="CSS exco" width = "500px" height = "300px"/>
                 <p><b><u>Members</u></b></p>
                 <table>
                 <tr> <td><Image src="/ai.png" alt="CSS exco" width = "500px" height = "300px"/></td>

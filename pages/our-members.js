@@ -46,10 +46,10 @@ function OurMembers() {
                 <h2 className={utilStyles.h2Alt}>About Us</h2>
                 <div className={utilStyles.container}>
               <p>
-                  Ever wanted to learn coding but not sure how to begin? Look no further! We, the Computer Science Society, are a CCA filled with passionate individuals who believe in the power of technology in transforming our way of life for the better. We offer courses from <a href="/activities/datasciandmachinelearning" className={utilStyles.a}>Data Science</a> to <a href="/activities/webandmobileappdevt" className={utilStyles.a}>Web Development</a>, so you know that our members are extremely diverse. We welcome students of all skill levels, from absolute beginners to programming experts.
+                  Here in Computer Science Society, we partake in various courses from Web Development to Data Science and UI/UX Design. Some courses will be taught by instructors, others by our own EXCO members. We also get to apply our knowledge by undertaking projects like building CCA websites for other CCAs, or delving into machine learning and competitive programming.
               </p>
               <p>
-                  By the way, sessions are held every Wednesday (our school's Gap Day) from 9 to 11am!
+                  Sounds interesting? Join Us! Our CCA sessions are held every Wednesday, 9-11am. We welcome all skill levels from beginners to those more advanced.
               </p>
                 </div>
             </section>
